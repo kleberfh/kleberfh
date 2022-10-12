@@ -9,7 +9,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="VueJS" height="30" width="40" src="https://vuejs.org/images/logo.svg">
     <img align="center" alt="AngularJS" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
     <img align="center" alt="PHP" height="30" width="40" src="https://www.php.net/images/logos/php-logo.svg">
     <img align="center" alt="Laravel" height="30" width="40" src="https://laravel.com/img/logomark.min.svg">

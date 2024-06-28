@@ -1,4 +1,4 @@
-<h2>👨🏻‍💻 Kleber Fernando - Mobile and FrontEnd Developer <img align="right" src="https://komarev.com/ghpvc/?username=kleberfh&color=green" alt="kleberfh" /></h2>
+<h2>👨🏻‍💻 Kleber Fernando - Mobile and FrontEnd Developer</h2>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleberfh&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleberfh&layout=compact&langs_count=8&hide=html&theme=gotham"/> 
